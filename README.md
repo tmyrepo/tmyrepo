@@ -47,15 +47,15 @@
 
 | スキルカテゴリ          | スキル名                                                                         |
 |-----------------------|----------------------------------------------------------------------------------|
-| プログラミング言語      | Python(1.5年+),  C/C++(1年+), C#(２年+), TypeScript(３年+), JavaScript(３年+) |
-| フレームワーク          | React.js(３年+), Redux(３年+), Next.js(1年+),  |
+| プログラミング言語      | Python(2年+),  C/C++(1年+), C#(２年+), TypeScript(３年+), JavaScript(３年+) |
+| フレームワーク          | React(３年+), Redux(３年+), Next.js(1年+),  |
 | データベース            | MySQL, PostgreSQL                                                                      |
-| オペレーティングシステム | Linux                                                         |
+| オペレーティングシステム | Linux,Windows                                                         |
 | バージョン管理システム   | git                                                                  |
 | CI/CD                 | GitHub Actions, CircleCI                                      |
 | クラウド (AWS)         | CLF-C01                                      |
-| クラウド (GoogleCloud)       | Cloud Functions、Workflows、Secret　Manger、Cloud Run、BigQuery |
+| クラウド (GoogleCloud)       |CDL,Cloud Functions、Workflows、Secret Manger、Cloud Run(service,jobs)、BigQuery |
 | クラウド (その他)       | Treasure Data                                        |
 | テスト                 | jest,Pytest                                                  |
-| その他                 | Docker             |
+| その他                 | Docker,Nginx             |
 
